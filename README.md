@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MArkan1919
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Learning JavaScript
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
