@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MArkan1919
-- 👀 I’m interested in Learning Backend Development
+- 👀 I’m interested in learning Backend Development
 - 🌱 I’m currently learning Laravel 9
 
 <!---
